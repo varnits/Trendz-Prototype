@@ -1,7 +1,7 @@
 # Trendz-Prototype
 Trendz is a voice based engagement platform that would be available on all the alexa enabled devices.
 
-With Trendz, The latest fashion statements of the celebrities are notified to the users through alexa, these users may then be suggeste  to go through the designs in the cards and later asked if they would like to buy the products from the Myntra, Jabong site.
+With Trendz, The latest fashion statements of the celebrities are notified to the users through alexa, these users may then be suggested  to go through the designs in the cards and later asked if they would like to buy the products from the Myntra, Jabong site.
 An example conversation -
 
         *User- "Alexa, What are the latest styling trends"
