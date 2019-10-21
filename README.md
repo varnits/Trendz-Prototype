@@ -11,7 +11,7 @@ An example conversation -
         *Alexa-"I have sent the image of the look to your device "
         *User- "It looks Good. Please, place the order for me."
 
-The code is written in nodejs and hosted as a lambada function which makes it completely serverless, and the intents from the alexa skill are mapped to the functions present in this nodejs file. 
+The code is written in nodejs and hosted as a lambda function which makes it completely serverless, and the intents from the alexa skill are mapped to the functions present in this nodejs file. 
 
 Further Improvements Required-
 
