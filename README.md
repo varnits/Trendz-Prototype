@@ -13,7 +13,7 @@ An example conversation -
 
 The code is written in nodejs and hosted as a lambda function which makes it completely serverless, and the intents from the alexa skill are mapped to the functions present in this nodejs file. 
 
-I have attached a sample video of the prototype along with the zip folder of the code in which trendz skill is being called from  echo dot and the skill is sending display cards to my alexa account and can be seen on alexa app as well as alexa.amazon.com webpage.
+I have attached a sample video of the prototype along with the zip folder of the code in which trendz skill is being called from  echo dot and the skill is sending display cards to my alexa account and can be seen on alexa app as well as on https://alexa.amazon.in webpage.
 
 Further Improvements Required-
 
